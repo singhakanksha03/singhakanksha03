@@ -1,5 +1,5 @@
 ### <h1 align='center'> Hi👋 there,I am Akanksha Singh!</h1>
-<p align='center'><b>I am a 2nd year Btech student and a Passionate learner.</b></p>
+<p align='center'><b>Computer Science Student with knowledge of creating application using Java Full Stack(i.e. Spring boot microservices ) aspiring to solve technical challenges , willing to learn new technologies and looking for learning opportunities in domain like Java , big data , etc.</b></p>
 <br>
 <br>
 
